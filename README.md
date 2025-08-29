@@ -1,5 +1,9 @@
 # CRUD Clientes con Spring MVC + Hibernate + JSP 📦
 
+[![Java](https://img.shields.io/badge/Java-11-blue)](https://www.oracle.com/java/)
+[![Spring](https://img.shields.io/badge/Spring-5-brightgreen)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-5-orange)](https://hibernate.org/)
+
 Este proyecto es una aplicación web CRUD (Crear, Leer, Actualizar, Eliminar) de clientes desarrollada usando **Spring MVC**, **Hibernate**, **JSP**, **MySQL** y **Bootstrap 5**. Su objetivo es demostrar conocimientos en desarrollo web full-stack utilizando el stack de Java y tecnologías relacionadas.
 
 ---
